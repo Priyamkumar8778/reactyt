@@ -9,3 +9,6 @@ document.body.appendChild(h1);
 // how import export works in javascript------------------>
 import a from "./app.js";
 console.log(a);
+
+import { user } from "./app.js";
+console.log(user);
