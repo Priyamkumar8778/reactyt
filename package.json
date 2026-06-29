@@ -1,0 +1,13 @@
+{
+  "name": "reactyt-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix 3-UIproject run dev",
+    "build": "npm --prefix 3-UIproject run build",
+    "preview": "npm --prefix 3-UIproject run preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.1",
+    "tailwindcss": "^4.3.1"
+  }
+}
